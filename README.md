@@ -14,7 +14,7 @@ In the case of a GitHub Pages domain, DNS verification sounds unable to do alrea
 
 5. Copy the content provided there, something like `dh=123456abc`.
 
-6. [Fork this repository](https://github.com/oyepriyansh/.well-known/fork) (you can also create a new repository).
+6. [Generate a repository using this template](https://github.com/priyazsh/.well-known/generate) (you can also create a new repository).
 
 > [!IMPORTANT]  
 > Do not change the repository name; keep it as `.well-known`.
